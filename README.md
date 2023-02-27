@@ -4,6 +4,8 @@ Umsetzung eines Thompson-NFA (nondeterministic finite automaton) in Rust durch M
 [Implementierungsaufgaben in C++](https://sulzmann.github.io/SoftwareProjekt/labor.html#(10)) 
 von Prof. Dr. Martin Sulzmann.
 
+Das zugerhörige [Git-Repository](https://github.com/Sandtmann/thompson_nfa) auf Github.
+
 ## **Reguläre Ausdrücke**
 
 Ob Rust als objektorientiert zu bezeichnen ist, hängt von der ausgewählten Definition ab. Ein von bekannten 
